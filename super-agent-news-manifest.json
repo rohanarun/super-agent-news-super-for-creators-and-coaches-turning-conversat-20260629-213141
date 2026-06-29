@@ -1,0 +1,25 @@
+{
+  "citations": [
+    "[blog.google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/)",
+    "[forbes.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxQNnZNM2dDXzRibUR1d0RUNFV3Ujdyc0FEZW9EOThxcG5pR0lKQkVXV25NWXVuRnEzX3RxY0xoeENOSVE2cTl3V3VtNVdqbDBabzg0eUZZWmhnbDQyUTJ2aHFqcGRYeFcwbng4LTJQc0RaaEc4YlJFaDVwZjlSaV96SEtVME1KSzcxeXNKZldFTQ?oc=5)",
+    "[searchenginejournal.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxPRVJoRjFoQjUzdGpSQlNUNUZmQTBUUzBnRkFqZUl2N0N6SkxaS3kzTmR1cUZDZFJ3cEsxcjFYQXVWYmh2RU56UEhlLVpZS2JQcE5WRmg1LXRGRUJUVmxMeWdnTlRkQjNNNzVCTThETk8zRW5qMnRlUnZGRjZWUFRPeVA3RVVtcDQtTklUWTk4T2NLOE1VWG9YVjdrM1BjMW1kd1JQZndaQy1PTURSUUg1eHcwV1NlRFBJOVR3SkpkeTZYX3lMT2c?oc=5)",
+    "[thenextweb.com](https://thenextweb.com/news/google-gemini-3-5-flash-computer-use-built-in-tool)"
+  ],
+  "design_plan": "rng=42; AIDA_pass=true; hero_lines=3; max_width=1120; bento_density=grid-auto-flow:dense; label_sweep=ok; button_contrast=black/white verified",
+  "generated_at": "2026-06-29T21:31:49.461020+00:00",
+  "headline": "Super for creators and coaches turning conversations into content and operations",
+  "site_brief": {
+    "audience": "creators and coaches turning conversations into content and operations",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "creators and coaches turning conversations into content and operations AI assistant",
+      "creators and coaches turning conversations into content and operations personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-creators-and-coaches-turning-conversations-into",
+    "title": "Super for creators and coaches turning conversations into content and operations"
+  },
+  "summary": "A cinematic, conversion-focused niche landing page showing how creators and coaches can use Super\u2019s personal AI agents to turn calls, DMs, and workshops into repeatable content and operational workflows. The page ties current market evidence \u2014 especially the rise of computer-use agents like Gemini 3.5 Flash \u2014 to creator pain points, and positions Super as the sharper alternative for repeated computer-use workflows through its reusable computer-use cache."
+}
